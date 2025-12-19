@@ -50,3 +50,4 @@ The project was created in the **TINKERCAD** environment according to the comman
 **Last update:** May 25, 2025
 
 ---
+...
